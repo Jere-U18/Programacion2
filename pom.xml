@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
+<<<<<<< HEAD
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.uce</groupId>
     <artifactId>bayron</artifactId>
+=======
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.uce</groupId>
+    <artifactId>jere2</artifactId>
+>>>>>>> d848018fffe83b67f06b594c979a3ec957eb38e3
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -12,6 +21,7 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
+<<<<<<< HEAD
     <dependencies>
         <!-- Source: https://mvnrepository.com/artifact/org.projectlombok/lombok -->
         <dependency>
@@ -24,3 +34,6 @@
     </dependencies>
 
 </project>
+=======
+</project>
+>>>>>>> d848018fffe83b67f06b594c979a3ec957eb38e3

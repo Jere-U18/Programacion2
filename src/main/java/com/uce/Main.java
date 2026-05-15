@@ -1,5 +1,6 @@
 package com.uce;
 
+<<<<<<< HEAD
 import com.uce.funciones.CalculadoraIMC;
 import com.uce.funciones.ClaseEstatica;
 import com.uce.funciones.Implementacion;
@@ -71,3 +72,29 @@ public class Main {
         
     } 
 }
+=======
+import com.uce.funciones.calculos;
+
+public class Main {
+    public static void main(String[] args) {
+
+        calculos.suma(1,2);
+
+        calculos.resta(4, 2000);
+
+        calculos.multiplicacion(1,2);
+
+        calculos.division(4, 3);
+
+        calculos.factorial(6);
+
+        calculos.piE();
+        
+
+
+
+
+
+    }
+}
+>>>>>>> d848018fffe83b67f06b594c979a3ec957eb38e3
